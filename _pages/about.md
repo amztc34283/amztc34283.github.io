@@ -23,4 +23,3 @@ I am Billy Chau, a computer scientist and lifelong learner. I grew up in Hong Ko
 I earned my bachelor degree in Electrical Engineering and Computer Sciences from UC Berkeley, where I explored a wide range of subjects including operating systems, hardware, machine learning, robotics, and computer vision.
 
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/billy-chau-59060913a/) for a quick chat.
-

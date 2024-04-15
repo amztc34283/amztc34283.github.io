@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Culture - Hong Kong
-description:
+description: Feb 28, 2023
 img: assets/img/project1/0-Cover.jpg
 importance: 3
 category: Photography

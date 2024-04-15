@@ -69,14 +69,16 @@
         loading="lazy"
       {% endif %}
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
-      onclick="var modal = document.getElementById('galleryModal');
-               var modalImg = document.getElementById('galleryModalContent');
-               modal.style.display = 'block';
-               modalImg.src = this.src;
-               var span = document.getElementById('galleryModalClose');
-               span.onclick = function() { 
-                    modal.style.display = 'none';
-               }"
+      onclick="
+        var modal = document.getElementById('galleryModal');
+        var modalImg = document.getElementById('galleryModalContent');
+        modal.style.display = 'block';
+        modalImg.src = this.src;
+        var span = document.getElementById('galleryModalClose');
+        span.onclick = function() {
+             modal.style.display = 'none';
+        }
+      "
     >
   </picture>
 

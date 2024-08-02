@@ -23,4 +23,4 @@ In my free time, I read books and research papers on the subjects I am intereste
 
 I enjoy taking photos when I travel and they are available in the gallery.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/billy-chau-59060913a/) for a chat or collaboration.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chun-hei-chau-59060913a/) for a chat or collaboration.

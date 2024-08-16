@@ -24,3 +24,21 @@ In my free time, I read books and research papers on the subjects I am intereste
 I enjoy taking photos when I travel and they are available in the gallery.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chun-hei-chau-59060913a/) for a chat or collaboration.
+
+<!-- Default Statcounter code for Personal Github
+https://amztc34283.github.io/ -->
+<script type="text/javascript">
+var sc_project=13022930; 
+var sc_invisible=1; 
+var sc_security="bbc71b63"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/13022930/0/bbc71b63/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->

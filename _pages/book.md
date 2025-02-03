@@ -7,6 +7,24 @@ nav: true
 nav_order: 5
 ---
 
+<h4>Distributed System - probably most problems are solved</h4>
+
+[Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+
+[Ray: A Distributed Framework for Emerging AI Applications](https://arxiv.org/abs/1712.05889)
+
+<h4>Hardware - probably the bottleneck</h4>
+
+[Systolic Arrays for VLSI](https://www.eecs.harvard.edu/htk/static/files/1978-cmu-cs-report-kung-leiserson.pdf)
+
+[Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks](https://eems.mit.edu/wp-content/uploads/2016/04/eyeriss_isca_2016.pdf)
+
+<h4>Robotics - probably the hardest problem</h4>
+
+[Apprenticeship Learning via Inverse Reinforcement Learning](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)
+
+[Sim-to-Real Transfer of Robotic Control with Dynamics Randomization](https://arxiv.org/pdf/1710.06537)
+
 <h4>Health</h4>
 
 [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)

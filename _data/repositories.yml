@@ -5,8 +5,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
+  - amztc34283/chrome_extensions
+  - kkirchheim/pytorch-ood
   - twbs/bootstrap
   - jquery/jquery
   - FortAwesome/Font-Awesome

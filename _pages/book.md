@@ -9,6 +9,8 @@ nav_order: 5
 
 <h4>Health</h4>
 
+[Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
+
 [Breath: The New Science of a Lost Art](https://www.goodreads.com/book/show/48890486-breath)
 
 [The Mind-Gut-Immune Connection: Understanding How Food Impacts Our Mind, Our Microbiome, and Our Immunity](https://www.goodreads.com/book/show/70240441-the-mind-gut-immune-connection)

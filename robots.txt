@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://amztc34283.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://amztc34283.github.io/sitemap.xml

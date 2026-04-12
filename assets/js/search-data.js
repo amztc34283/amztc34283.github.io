@@ -37,7 +37,95 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/read/";
           },
-        },{id: "post-how-i-built-a-chrome-extension-with-chatgpt-codeium-and-windsurf-in-30-minutes",
+        },{id: "post-classics-how-to-think-about-deep-learning",
+      
+        title: 'Classics — How to Think About Deep Learning <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@billy.chau./classics-how-to-think-about-deep-learning-952c715e3f83?source=rss-4bb748cbabe3------2", "_blank");
+        
+      },
+    },{id: "post-fuzz-or-buzz",
+      
+        title: 'Fuzz or Buzz? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@billy.chau./fuzz-or-buzz-39a1c17b9a84?source=rss-4bb748cbabe3------2", "_blank");
+        
+      },
+    },{id: "post-the-hidden-chaos-of-open-source-mlops-why-distributed-training-still-breaks-in-production",
+      
+        title: 'The Hidden Chaos of Open-Source MLOps: Why Distributed Training Still Breaks in Production... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@billy.chau./the-hidden-chaos-of-open-source-mlops-why-distributed-training-still-breaks-in-production-ebc0d7b9ba5a?source=rss-4bb748cbabe3------2", "_blank");
+        
+      },
+    },{id: "post-novel-the-last-correct-answer",
+      
+        title: 'Novel – The Last Correct Answer <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@billy.chau./novel-the-last-correct-answer-ffac7b9fbe82?source=rss-4bb748cbabe3------2", "_blank");
+        
+      },
+    },{id: "post-attune-your-belief",
+      
+        title: 'Attune Your Belief <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@billy.chau./attune-your-belief-d6ee420e56ea?source=rss-4bb748cbabe3------2", "_blank");
+        
+      },
+    },{id: "post-why-do-we-argue",
+      
+        title: 'Why Do We Argue? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@billy.chau./why-do-we-argue-d96b5c38263d?source=rss-4bb748cbabe3------2", "_blank");
+        
+      },
+    },{id: "post-dear-dopamine",
+      
+        title: 'Dear Dopamine <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@billy.chau./dear-dopamine-8a130d52172f?source=rss-4bb748cbabe3------2", "_blank");
+        
+      },
+    },{id: "post-my-favorite-algorithm-monte-carlo-algorithm",
+      
+        title: 'My Favorite Algorithm — Monte Carlo Algorithm <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@billy.chau./my-favorite-algorithm-monte-carlo-algorithm-c61c1aaea7d5?source=rss-4bb748cbabe3------2", "_blank");
+        
+      },
+    },{id: "post-how-i-built-a-chrome-extension-with-chatgpt-codeium-and-windsurf-in-30-minutes",
       
         title: 'How I Built a Chrome Extension with ChatGPT, Codeium, and Windsurf in 30... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -59,100 +147,7 @@ ninja.data = [{
           window.open("https://medium.com/@billy.chau./unavoidable-vicious-cycle-036cd6dbb0a3?source=rss-4bb748cbabe3------2", "_blank");
         
       },
-    },{id: "post-the-big-question-do-large-language-models-learn-like-humans",
-      
-        title: 'The Big Question — Do Large Language Models Learn Like Humans? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://medium.com/@billy.chau./the-big-question-do-large-language-models-learn-like-humans-c8bf525716ae?source=rss-4bb748cbabe3------2", "_blank");
-        
-      },
-    },{id: "post-dive-deeper-information-retrieval-algorithms-for-rag",
-      
-        title: 'Dive Deeper — Information Retrieval Algorithms for RAG <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://medium.com/@billy.chau./dive-deeper-information-retrieval-algorithms-for-rag-6c83c81252ee?source=rss-4bb748cbabe3------2", "_blank");
-        
-      },
-    },{id: "post-deep-thoughts-unscripted-the-right-way-to-learn",
-      
-        title: 'Deep Thoughts Unscripted — The Right Way to Learn <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://medium.com/@billy.chau./deep-thoughts-unscripted-the-right-way-to-learn-858c1330d4c8?source=rss-4bb748cbabe3------2", "_blank");
-        
-      },
-    },{id: "post-data-engineer-101-part-1",
-      
-        title: 'Data Engineer 101 — Part 1 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://medium.com/@billy.chau./data-engineer-101-part-1-0487b7ab32eb?source=rss-4bb748cbabe3------2", "_blank");
-        
-      },
-    },{id: "post-towards-solopreneur-risk-taking",
-      
-        title: 'Towards Solopreneur — Risk Taking <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://medium.com/@billy.chau./towards-solopreneur-risk-taking-d85da4d607d4?source=rss-4bb748cbabe3------2", "_blank");
-        
-      },
-    },{id: "post-towards-solopreneur-noisy-world",
-      
-        title: 'Towards Solopreneur — Noisy World <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://medium.com/@billy.chau./towards-solopreneur-noisy-world-39c1ee81c348?source=rss-4bb748cbabe3------2", "_blank");
-        
-      },
-    },{id: "post-towards-solopreneur-the-next-generation",
-      
-        title: 'Towards Solopreneur — The Next Generation <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://medium.com/@billy.chau./towards-solopreneur-the-next-generation-b4be0f789e49?source=rss-4bb748cbabe3------2", "_blank");
-        
-      },
-    },{id: "post-towards-solopreneur-timing",
-      
-        title: 'Towards Solopreneur — Timing <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://medium.com/@billy.chau./towards-solopreneur-timing-29fb6f99ac86?source=rss-4bb748cbabe3------2", "_blank");
-        
-      },
-    },{id: "projects-work-in-progress",
-          title: 'Work In-Progress',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-culture-hong-kong",
+    },{id: "projects-culture-hong-kong",
           title: 'Culture - Hong Kong',
           description: "Feb 28, 2023",
           section: "Projects",handler: () => {
@@ -162,6 +157,16 @@ ninja.data = [{
           description: "Mar 15, 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Culture-Japan/";
+            },},{id: "projects-raft",
+          title: 'Raft',
+          description: "Strong Consistency Algorithm",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Raft/";
+            },},{id: "projects-randomness",
+          title: 'Randomness',
+          description: "Random variable is not so random",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Randomness/";
             },},{
         id: 'social-linkedin',
         title: 'LinkedIn',

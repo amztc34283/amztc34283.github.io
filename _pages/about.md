@@ -19,7 +19,7 @@ I am Billy Chau, a computer scientist and lifelong learner. I grew up in Hong Ko
 
 I earned my bachelor's degree in Electrical Engineering and Computer Sciences from UC Berkeley, where I explored a wide range of subjects including operating systems, hardware, machine learning, robotics, and computer vision.
 
-In my free time, I read books and research papers on the subjects I am interested in. My goal for this year is to understand dopamine and I highly encourage you to read [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X).
+In my free time, I read books and research papers on the subjects I am interested in. My goal for this year is to understand neurochemicals and I highly encourage you to read [High on Life: How to Naturally Harness the Power of Six Key Hormones and Revolutionize Yourself](https://www.amazon.com/High-Life-Naturally-Hormones-Revolutionize/dp/1639366989).
 
 I enjoy taking photos when I travel and they are available in the gallery.
 
